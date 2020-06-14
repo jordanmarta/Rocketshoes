@@ -8,6 +8,7 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": "^0.19.2",
     "babel": "^6.23.0",
+    "bcrypt": "^5.0.0",
     "gulp": "^4.0.2",
     "history": "^4.10.1",
     "immer": "^6.0.2",
